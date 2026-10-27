@@ -1,0 +1,16 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2026 ScrubTheorem
+cff-version: 1.2.0
+message: "If you build on this model, please cite it as below, or mention ScrubTheorem."
+title: "Auracular Engine Model: an orbitable 3D map of the Auracular engine"
+type: software
+authors:
+  - alias: ScrubTheorem
+    email: ScrubTheorem@gmail.com
+license: Apache-2.0
+date-released: 2026-10-26
+version: "1.1"
+abstract: >-
+  An interactive, orbitable 3D map of how the Auracular engine moves an event from a source system to a
+  destination: five rings that decide, a sealed ledger, a rule workshop above, and eight guided flows. Runs in a
+  browser with no install. Built with AI assistance.

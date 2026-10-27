@@ -1,0 +1,14 @@
+Auracular Engine Model
+Copyright (c) 2026 ScrubTheorem
+
+Licensed under the Apache License 2.0 (see LICENSE). Anyone may use, study, reverse engineer, change, share
+and sell this work, in open or closed projects, without asking.
+
+If you redistribute this work or a derivative of it, the Apache License 2.0 (section 4d) asks you to keep
+this NOTICE file, or its attribution text, with your distribution.
+
+Built with AI assistance (Claude). The design and decisions are ScrubTheorem's.
+
+Includes Three.js r128 (three.r128.min.js), MIT License, copyright the three.js authors; see THREE-LICENSE.md.
+
+Contact: ScrubTheorem@gmail.com
